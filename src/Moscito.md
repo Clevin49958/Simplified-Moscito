@@ -46,11 +46,21 @@ Version: 0.1
 # 1!H Opening
 
  - 1!S: BAL, or GF with 5!S
-   - 1NT: 5(332)
+   - 1NT: 5 BAL
    - 2!H: 6 or 5 with 4!m
    - Others: see [general rebids](#1m-general-rebids)
  - 1NT: 5+!S, 11-
- - 2!m: NAT, 11+
+ - 2!C: NAT, 11+
+   - 2!D: canape
+   - 2!H: 5 with 4!D or 6!H
+   - 2!S: 5 with 5!D
+   - 2NT: 5 BAL min
+   - 3!C: 4+
+ - 2!D: NAT, 11+
+   - 2!H: 5 with 4!C or 6!H
+   - 2!S: canape with !C
+   - 2NT: 5 BAL min
+   - 3!C: max, NAT
  - 2!H: could be 3!H
  - 2!S: NAT, weak
  - 2NT: NAT, INV
