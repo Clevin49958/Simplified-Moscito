@@ -50,6 +50,13 @@ Version: 0.1
    - 2!H: 6 or 5 with 4!m
    - Others: see [general rebids](#1m-general-rebids)
  - 1NT: 5+!S, 11-
+   - 2!m: 4+, *might be* canape
+   - 2!H: 6+!H, occasionally 5
+   - 2!S: 3!S min
+   - 2NT: NAT INV
+   - 3!m: canape
+   - 3!H: 6+!H, max
+   - 3!S: 3!S max
  - 2!C: NAT, 11+
    - 2!D: canape
    - 2!H: 5 with 4!D or 6!H
