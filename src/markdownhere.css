@@ -1,0 +1,45 @@
+body{
+  font-size: 14pt;
+  line-height: 1.4em;
+}
+
+h1 {
+  font-size: 28pt;
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+h3 {
+  font-size: 16pt;
+}
+
+h4, h5, h6 {
+  font-size: 14pt;
+}
+
+
+.spade {
+  color: rgb(0,0,255);
+}
+
+.club {
+  color: rgb(0,128,0);
+}
+
+.heart {
+  color: rgb(255,0,0);
+}
+
+.diam {
+  color: rgb(255,165,0);
+}
+
+.major {
+  color: rgb(128,0,128)
+}
+
+.minor {
+  color: rgb(128,147,0)
+}
